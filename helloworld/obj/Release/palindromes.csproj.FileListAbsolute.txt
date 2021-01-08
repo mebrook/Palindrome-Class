@@ -1,0 +1,3 @@
+/Users/mebrook/Projects/helloworld/helloworld/bin/Release/helloworld.exe
+/Users/mebrook/Projects/helloworld/helloworld/obj/Release/helloworld.exe
+/Users/mebrook/Projects/helloworld/helloworld/obj/Release/palindromes.csprojAssemblyReference.cache

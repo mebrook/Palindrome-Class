@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromes", "helloworld\palindromes.csproj", "{F95B3A44-4F68-46F6-8AC6-E0A484E2F2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95B3A44-4F68-46F6-8AC6-E0A484E2F2D1}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F95B3A44-4F68-46F6-8AC6-E0A484E2F2D1}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F95B3A44-4F68-46F6-8AC6-E0A484E2F2D1}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F95B3A44-4F68-46F6-8AC6-E0A484E2F2D1}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
